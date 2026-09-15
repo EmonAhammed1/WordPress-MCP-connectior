@@ -1,5 +1,5 @@
 === MCP Bridge for Claude ===
-Contributors: rayhan
+Contributors: Emon Ahammed
 Requires at least: 6.0
 Requires PHP: 8.0
 Stable tag: 1.3.0

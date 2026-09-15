@@ -9,7 +9,7 @@ declare(strict_types=1);
  * Version: 1.3.0
  * Requires at least: 6.0
  * Requires PHP: 8.0
- * Author: Rayhan
+ * Author: Emon Ahammed
  * License: GPL-2.0-or-later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: mcp-bridge
